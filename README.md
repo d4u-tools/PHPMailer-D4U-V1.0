@@ -1,5 +1,5 @@
 # PHPMailer Inbox To All With SMTP Option & Email Validate & Letter Encoding
-Get Free API KEY From www.8levellookup.online
+Get Free API KEY From www.8levellookup.ga
 <br />
 Edit your api information in mailer.php
 <br />
